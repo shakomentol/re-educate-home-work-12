@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .grid-container {
+    display: grid;
+    /* width: 1024px; */
+    background-color: blue;
+    grid-template-areas: 
+    'Masonry I Masonry I'
+    'Flexible Breadth Flexible Breadth'
+    'Dom order  Dom order'
+    'Responsive Responsive'
+    'Fluid Fluid';
+}
+.grid-container div {
+    width: 100px;
+    height: 100px;
+} */
